@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219360609570",
+    "firebase_url": "https://inteligenciaartificial-954f4-default-rtdb.firebaseio.com",
+    "project_id": "inteligenciaartificial-954f4",
+    "storage_bucket": "inteligenciaartificial-954f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219360609570:android:dfe2f816743741b90ed17b",
+        "android_client_info": {
+          "package_name": "com.example.inteligenciaartificial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219360609570-qbpjjas2i87h1837e6gupa1tjd09qerc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5kVmQDb2hpXqOxBfmZFXxsykaDIGgGM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219360609570-qbpjjas2i87h1837e6gupa1tjd09qerc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
